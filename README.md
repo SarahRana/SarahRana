@@ -1,11 +1,9 @@
-## Hi there 👋
+## 🌸 Hi, I’m Sarah
 
 <!--
 **SarahRana/SarahRana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-🌸 Hi, I’m Sarah Rana
-
-Data Analyst | Problem Solver | Turning messy data into meaningful insights
+Data Consultant | Problem Solver | Turning messy data into meaningful insights
 
 I’m passionate about transforming complex datasets into clear, actionable solutions. With experience across financial services and social impact projects, I love building tools that help people make smarter decisions.
 
