@@ -1,5 +1,7 @@
 ## 🌸 Hey, I’m Sarah
-
+<p align="center">
+  <img src="Banner%20Github.png" width="100%" />
+</p>
 <!--
 **SarahRana/SarahRana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
