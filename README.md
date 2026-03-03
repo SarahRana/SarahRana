@@ -7,15 +7,9 @@
 <p>💻 Currently developing Python and SQL projects to strengthen my analytical thinking and data storytelling.</p>
 
 ## 🤝 Let’s Connect
-<table width="100%">
-  <tr>
-    <td align="left">
-      
-  🔗 [LinkedIn](https://www.linkedin.com/in/sarahrana99/)  
-  🌐 Portfolio (coming soon)
-    </td>
-    <td align="right">
-    <img src="typing.gif" width="150px" />
-    </td>
-  </tr>
-</table>
+🔗 [LinkedIn](https://www.linkedin.com/in/sarahrana99/)  
+🌐 Portfolio (coming soon)
+    
+<p align="right">
+<img src="typing.gif" width="150px" />
+</p>
