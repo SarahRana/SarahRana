@@ -12,6 +12,6 @@
 
 <br><br>
 
-<p align="left">
-  <img src="typing.gif" width="350px" />
+<p align="right">
+  <img src="typing.gif" width="150px" />
 </p>
