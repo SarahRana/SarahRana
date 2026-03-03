@@ -13,12 +13,9 @@
       
   🔗 [LinkedIn](https://www.linkedin.com/in/sarahrana99/)  
   🌐 Portfolio (coming soon)
-  
     </td>
     <td align="right">
-
-<img src="typing.gif" width="150px" />
-
+    <img src="typing.gif" width="150px" />
     </td>
   </tr>
 </table>
