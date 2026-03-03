@@ -9,6 +9,5 @@
 ---
 
 ## 🤝 Let’s Connect
-
 🔗 [LinkedIn](https://www.linkedin.com/in/sarahrana99/)  
 🌐 Portfolio (coming soon)
