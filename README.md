@@ -7,6 +7,8 @@
 <p> 📊 I’m passionate about transforming complex datasets into clear, actionable solutions. With experience across financial services and social impact projects, I love building tools that help people make smarter decisions. </p>
 <p>💻 Currently developing Python and SQL projects to strengthen my analytical thinking and data storytelling.</p>
 
+
+
 ### 🛠 Tech Stack
 Power BI | Alteryx | KNIME | Python | SQL 
 
