@@ -1,5 +1,5 @@
 # 🌸 Hey, I’m Sarah
-<br><br>
+<br>
 <p align="center">
   <img src="Banner%20Github.png" width="100%" />
 </p>
